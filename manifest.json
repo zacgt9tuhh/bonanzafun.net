@@ -1,0 +1,19 @@
+{
+    "name": "Sweet Bonanza 1000 Casino Game | Play & Win Big Online",
+    "short_name": "PowerPlay",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Sweet Bonanza 1000 Casino Game \u2013 Spin for cash and style in Canada | Sweet Bonanza 1000 Game offers fun, music, and big wins | Play now securely",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
